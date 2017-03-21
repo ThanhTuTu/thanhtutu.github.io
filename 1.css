@@ -466,7 +466,7 @@ a:hover.layer3 {
 	font-size: 13px;
 	position: absolute;
 	z-index: 6;
-	bottom: 0;
+	bottom: 30px;
 	left: 5px;
 }
  
@@ -1103,6 +1103,7 @@ i.fa.fa-shopping-basket {
 }
 
 .tenbua {
+	margin-top: 40px;
     font-size: 40px;
     font-family: 'Roboto',sans-serif;
     border-bottom: 2px solid;
